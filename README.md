@@ -2,6 +2,8 @@
 
 ### inference using trained models
 
+weights for running inference will be made available coming soon.
+
 clone this repository
 ```
 cd wmhuq-eval
@@ -43,3 +45,6 @@ output:
   - fazekas probabilistic score
   - segmentation quality score
   - input features for fazekas score
+
+### model training and evaluation
+code upload coming soon.
