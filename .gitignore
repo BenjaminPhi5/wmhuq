@@ -20,6 +20,9 @@ __pycache__/
 # C extensions
 *.so
 
+# allow the trained weights folder for inference
+!weights/
+
 # model files for this project
 ssn_ens*_cv*/
 
