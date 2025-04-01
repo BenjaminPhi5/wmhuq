@@ -1,0 +1,4 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir ssn_hpt10 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir ssn_hpt20 --dice_factor 20
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir ssn_hpt5 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir ssn_hpt1 --dice_factor 1

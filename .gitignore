@@ -20,14 +20,11 @@ __pycache__/
 # C extensions
 *.so
 
-# model files for this project
-ssn_ens*_cv*/
-
 # numpy files
 *.npy
 *.npz
 
-# mri image files / data
+# image files
 *.nii
 *.nii.gz
 *.dcm
@@ -35,10 +32,9 @@ ssn_ens*_cv*/
 *.mat
 *.img
 *.hdr
-*.zip
-*.json
-*.bval
-*.bvec
+
+# file with bad (stale) handle
+trustworthai/run/ADNI_300_analysis/new_fazekas_prediction_code/results/CVD/CVD_target_fieldDWMH_channel_idseg_sid1_latentls1_reweightedtrue
 
 # Distribution / packaging
 .Python

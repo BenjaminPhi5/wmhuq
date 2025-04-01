@@ -1,0 +1,22 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble01
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble02
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble03
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble04
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble05
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble06
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble07
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble08
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble09
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble11
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble12
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble13
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble14
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble15
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble16
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble17
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble18
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble19
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble20
+
+

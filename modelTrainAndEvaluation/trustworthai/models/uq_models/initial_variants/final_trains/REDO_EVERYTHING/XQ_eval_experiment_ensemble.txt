@@ -1,0 +1,1 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ensemble.py --ckpt_dir res --model_folder ensemble --model_name ensemble --variant 00

@@ -1,0 +1,4 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet.py --ckpt_dir punet_hpt10 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet.py --ckpt_dir punet_hpt5 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet.py --ckpt_dir punet_hpt50 --dice_factor 50
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet.py --ckpt_dir punet_hpt30 --dice_factor 30

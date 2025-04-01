@@ -1,0 +1,8 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly.py --ckpt_dir Xpunet_muonlydice20 --dice_factor 20
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly.py --ckpt_dir Xpunet_muonlydice10 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly.py --ckpt_dir Xpunet_muonlydice5 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly.py --ckpt_dir Xpunet_muonlydice50 --dice_factor 50
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly_bothpripost.py --ckpt_dir Xpunet_muonly_bothdice20 --dice_factor 20
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly_bothpripost.py --ckpt_dir Xpunet_muonly_bothdice10 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly_bothpripost.py --ckpt_dir Xpunet_muonly_bothdice5 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet_muonly_bothpripost.py --ckpt_dir Xpunet_muonly_bothdice50 --dice_factor 50

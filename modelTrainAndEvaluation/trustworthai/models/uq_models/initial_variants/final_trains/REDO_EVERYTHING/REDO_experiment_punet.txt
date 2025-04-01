@@ -1,0 +1,4 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet.py --ckpt_dir Xpunet_dice20 --dice_factor 20
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet.py --ckpt_dir Xpunet_dice10 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet.py --ckpt_dir Xpunet_dice5 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_punet.py --ckpt_dir Xpunet_dice50 --dice_factor 50

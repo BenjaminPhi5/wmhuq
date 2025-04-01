@@ -1,0 +1,14 @@
+methods to test:
+
+SSN_proximity class
+
+InteractiveLoss class
+
+
+so I need to get the proximity maps for l1 for every item in the batch.
+
+I could define the loss function on the entropy, not on the target, which would be kinda good I guess.
+i could then give the model the mean and the distribution as input, yeah I kinda like that idea.
+or I could compute the mean sample by picking the median class value that would be a good idea yes nice.
+
+when doing QC i can do best dice, average dice, worst dice or median dice, I think it might be best as predicting median dice actually.

@@ -1,0 +1,5 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ddu/ddu.py --ckpt_dir ddu01
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ddu/ddu.py --ckpt_dir ddu02
+
+
+

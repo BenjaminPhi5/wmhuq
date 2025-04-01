@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet_multivariate.py --ckpt_dir new_punet_multi01 --dice_factor 20
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet_multivariate.py --ckpt_dir new_punet_multi02 --dice_factor 40

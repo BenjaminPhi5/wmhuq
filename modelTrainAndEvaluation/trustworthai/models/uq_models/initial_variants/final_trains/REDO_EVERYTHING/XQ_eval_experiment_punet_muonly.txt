@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_punet_muonly.py --ckpt_dir res --model_folder punet --model_name punet_muonly10 --variant 10 --muvariant single
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_punet_muonly.py --ckpt_dir res --model_folder punet --model_name punet_muonly20 --variant 20 --muvariant single

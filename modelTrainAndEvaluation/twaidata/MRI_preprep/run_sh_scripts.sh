@@ -1,0 +1,1 @@
+./local_run_ADNI.sh 1 2 true false

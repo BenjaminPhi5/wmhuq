@@ -1,0 +1,7 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu05 --variant 05
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu06 --variant 06
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu07 --variant 07
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu08 --variant 08
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu12 --variant 12
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent_muonly.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind_mu13 --variant 13
+

@@ -1,0 +1,3 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_MC_dropout.py --ckpt_dir Xnew_mcdrop_01 --dropout_p 0.1
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_MC_dropout.py --ckpt_dir Xnew_mcdrop_02 --dropout_p 0.2
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_MC_dropout.py --ckpt_dir Xnew_mcdrop_05 --dropout_p 0.5

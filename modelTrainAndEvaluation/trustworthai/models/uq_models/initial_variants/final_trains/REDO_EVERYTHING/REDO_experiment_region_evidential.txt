@@ -1,0 +1,3 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_region_evidential.py --ckpt_dir Xregion_evid_kl01 --kl 0.1
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_region_evidential.py --ckpt_dir Xregion_evid_kl005 --kl 0.05
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_region_evidential.py --ckpt_dir Xregion_evid_kl05 --kl 0.5

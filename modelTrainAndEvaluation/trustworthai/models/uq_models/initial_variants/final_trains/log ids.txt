@@ -1,0 +1,37 @@
+1481632 - bn | bn0x
+1481619 - ssn hyperparameter tune | ssn_hpt
+1481751 - ssn version 2
+1481583 - ensemble | ensemble0x
+1481647 - mc dropout connect | dropout, dropconnect, slabspike, spikeslab
+1481675 - evidential hyperparemter tune | evidential_hptx
+1481690 - PART 1 AND 4 punet hyperparameter tune | punet_hptx
+1481717 - PART 2 AND 3 punet hyperparameter tune | punet_hptx
+1481735 - epinet in the final formation.
+1481768 - ddu
+1481773 - anchor
+
+1481801 - ssn mixture 1,2
+1481788 - ssn anchor  1,2
+1481791 - ssn ensemble 1-10
+1481804 - punet multivariate 1,2
+
+
+I think for P-Unet just pick 50
+I think for SSN just pick 20 we did it 'emperically'.
+
+THAT IS IT! MODELS ARE TRAINED. DONE. NEED TO MAKE PLOTS TOMORROW!!!!
+
+so: models that I have
+mc dropout versions
+back norm
+deterministic
+ensemble
+evidential
+ssn
+ssn gaussian mixture
+ssn anchor
+epinet
+ensemble ssn
+
+
+picking 20 for ssn and 50 for p-unet, slightly higher was needed.

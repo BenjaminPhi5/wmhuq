@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_mixture.py --ckpt_dir res --model_folder ssn_mixture --model_name ssn_mixture5 --variant 5 --mixture_size=5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_mixture.py --ckpt_dir res --model_folder ssn_mixture --model_name ssn_mixture2 --variant 2 --mixture_size=2

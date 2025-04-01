@@ -1,0 +1,3 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_mixture.py --ckpt_dir Xnew_ssn_mixture2_01 --dice_factor 5 --mixture_size 2
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_mixture.py --ckpt_dir Xnew_ssn_mixture2_02 --dice_factor 5 --mixture_size 2
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_mixture.py --ckpt_dir Xnew_ssn_mixture5_01 --dice_factor 5 --mixture_size 5

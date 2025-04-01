@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble11
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/deterministic.py --ckpt_dir ensemble20

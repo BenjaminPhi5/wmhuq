@@ -1,0 +1,3 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_evid_sensoy.py --ckpt_dir res --model_folder evid_sensoy --model_name evid_sensoy5 --variant 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_evid_sensoy.py --ckpt_dir res --model_folder evid_sensoy --model_name evid_sensoyx5kl1 --variant x5fl1
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_evid_sensoy.py --ckpt_dir res --model_folder evid_sensoy --model_name evid_sensoyx1kl1 --variant x1kl1

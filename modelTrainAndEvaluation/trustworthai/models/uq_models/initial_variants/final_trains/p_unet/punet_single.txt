@@ -1,0 +1,1 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/p_unet/punet.py --ckpt_dir punet_hpt20 --dice_factor 20

@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind05 --variant 05
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_independent.py --ckpt_dir res --model_folder ssn_ind --model_name ssn_ind06 --variant 06

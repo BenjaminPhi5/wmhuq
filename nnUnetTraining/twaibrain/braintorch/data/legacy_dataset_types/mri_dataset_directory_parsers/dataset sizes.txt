@@ -1,0 +1,4 @@
+around 250 individuals in ed in house data
+and around 60 or so individuals in wmh challenge data I think.
+>190 for combined LBC and MSS3
+110 in the WMH Challenge test data (which doesn't have labels, but I can use it for pretraining?) 

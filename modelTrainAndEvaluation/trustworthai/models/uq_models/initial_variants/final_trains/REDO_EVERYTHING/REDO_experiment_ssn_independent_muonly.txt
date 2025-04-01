@@ -1,0 +1,9 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly05 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly06 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly07 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly08 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly09 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly10 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly11 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly12 --dice_factor 5
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/REDO_ssn_independent_muonly.py --ckpt_dir Xssn_independent_muonly13 --dice_factor 5

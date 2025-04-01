@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn_mixture.py --ckpt_dir new_ssn_mixture02 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn_mixture.py --ckpt_dir new_ssn_mixture01 --dice_factor 10

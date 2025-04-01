@@ -1,0 +1,1 @@
+these scripts are for generating the sample diversity statistics per individual, as well as the dice and AVD scores for quality control prediction.

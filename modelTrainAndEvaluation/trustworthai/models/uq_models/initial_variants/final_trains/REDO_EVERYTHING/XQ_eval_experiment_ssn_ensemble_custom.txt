@@ -1,0 +1,2 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_ensemble.py --ckpt_dir res --model_folder ssn_ens --model_name ssn_ens_cust_small --variant best_small
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/REDO_EVERYTHING/Q_eval_ssn_ensemble.py --ckpt_dir res --model_folder ssn_ens_muonly --model_name ssn_ens_cust_big --variant best_big

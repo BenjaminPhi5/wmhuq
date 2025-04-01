@@ -1,0 +1,3 @@
+python /home/s2208943/projects/twaibrain/twaibrain/brainexperiments/run_nnUNet_v2/training/train_deterministic_2d.py --ckpt_dir /home/s2208943/projects/twaibrain/twaibrain/brainexperiments/run_nnUNet_v2/training/model_ckpts/nnunet2Dnoaug_ens0_cv4 --cv_split 4 --config_file 1 --nnUnet_augmentation 0
+python /home/s2208943/projects/twaibrain/twaibrain/brainexperiments/run_nnUNet_v2/training/train_deterministic_2d.py --ckpt_dir /home/s2208943/projects/twaibrain/twaibrain/brainexperiments/run_nnUNet_v2/training/model_ckpts/nnunet2Dnoaug_ens0_cv5 --cv_split 5 --config_file 1 --nnUnet_augmentation 0
+

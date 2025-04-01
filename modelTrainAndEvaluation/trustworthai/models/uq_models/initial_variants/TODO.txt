@@ -1,0 +1,16 @@
+- deterministic (softmax entropy)
+- DDU
+- SSN
+- Dropout
+- Ensemble
+- trustbrats
+- topological uncertianty
+- full bayesian
+- norm flow
+
+- implement how to get an uncertainty map for each method, so that I can get an pavpu score for each method / do some calibration. Nice.
+- don't have to do everything I talk about in the meeting but this would be good. Nice.
+
+
+dot prediction test
+active learning test.

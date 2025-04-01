@@ -1,0 +1,10 @@
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens01 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens02 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens03 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens04 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens05 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens06 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens07 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens08 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens09 --dice_factor 10
+python /home/s2208943/ipdis/Trustworthai-MRI-WMH/trustworthai/models/uq_models/initial_variants/final_trains/ssn/ssn.py --ckpt_dir new_ssn_ens10 --dice_factor 10
