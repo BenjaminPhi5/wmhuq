@@ -175,7 +175,7 @@ def normalize_brain(image, mask, lower_percentile=0, upper_percentile=100, verbo
 
         retained_indices = sorted_indices[lower_index:upper_index]
         
-        brain_locs = brain_locs[lower_index:upper_index]
+        brain_locs = brain_locs[retained_indices]
     else:
         if verbose:
             print("no percentiles used for normalization")

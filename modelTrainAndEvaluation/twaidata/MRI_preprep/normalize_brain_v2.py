@@ -18,7 +18,7 @@ def normalize_brain(image, mask, lower_percentile=0, upper_percentile=1):
         retained_indices = sorted_indices[lower_index:upper_index]
         #print(len(retained_indices)/num_brain_voxels)
         
-        brain_locs = brain_locs[lower_index:upper_index]
+        brain_locs = brain_locs[retained_indices]
     else:
         print("no percentiles used for normalization")
 
